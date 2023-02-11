@@ -1,9 +1,6 @@
-# Machine Learning Interview Prep Questions
-* The repo is here: https://github.com/gitskim/Machine-Learning-Coding-Interview-Prep
+# Machine Learning Interview Prep with JupyterLite Demo
 
-# JupyterLite Demo
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://gitskim.github.io/)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
