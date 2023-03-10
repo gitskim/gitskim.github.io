@@ -1,5 +1,8 @@
 {
-    "@jupyterlab/docmanager-extension:plugin": {
-        "autosave": false
-    }
+  "@jupyterlab/docmanager-extension:plugin": {
+    "autosave": false
+  },
+  "@retrolab/application-extension:top": {
+    "visible": false
+  }
 }
