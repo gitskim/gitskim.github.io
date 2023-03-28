@@ -8,8 +8,6 @@ jupyterlab~=3.5.0
 jupyterlab-drawio
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
-jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlite==0.1.0b15
 plotly>=5,<6
-theme-darcula
