@@ -5,6 +5,7 @@
     "disabledExtensions": [
       "@jupyterlab/docmanager-extension:download",
       "@jupyterlab/filebrowser-extension:download",
+      "@retrolab/lab-extension:interface-switcher",
       "@jupyterlab/drawio-extension",
       "jupyterlab-tour"
     ]
